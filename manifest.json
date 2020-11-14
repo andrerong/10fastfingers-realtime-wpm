@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+  
+    "name": "10fastfingers.com Realtime WPM",
+    "description": "This extension shows your WPM in realtime while performing a typing test.",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_icon": "icon.png",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+
+  }
